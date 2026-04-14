@@ -442,8 +442,8 @@ Aragua,Tucutunemo,2126,Tucutunemo
 Aragua,Turagua (Santa Cruz),2123,Santa Cruz
 Aragua,Turmero (Turmero),2115,Turmero
 Aragua,Unión (San Mateo),2120,San Mateo
-Aragua,Urbanización Andrés Bello,2101,Urbanización Andrés Bello
-Aragua,Urbanización Base Aragua,2101,Urbanización Base Aragua
+Aragua,Urbanización Andrés Bello,2101,Maracay
+Aragua,Urbanización Base Aragua,2101,Maracay
 Aragua,Urbanización Bermúdez (Maracay),2101,Maracay
 Aragua,Urbanización Calicanto (Maracay),2101,Maracay
 Aragua,Urbanización Caña de Azucar (Maracay),2101,Maracay
@@ -452,7 +452,7 @@ Aragua,Urbanización El Limón (Maracay),2101,Maracay
 Aragua,Urbanización El Toro (Maracay),2101,Maracay
 Aragua,Urbanización Fundación Mendoza (Maracay),2103,Maracay
 Aragua,Urbanización Guey (Maracay),2101,Maracay
-Aragua,Urbanización José Felix Rivas,2101,Urbanización José Felix Rivas
+Aragua,Urbanización José Felix Rivas,2101,Maracay
 Aragua,Urbanización La Arboleda (Maracay),2101,Maracay
 Aragua,Urbanización La Candelaria (Maracay),2101,Maracay
 Aragua,Urbanización La Floresta (Maracay),2101,Maracay
@@ -790,13 +790,13 @@ Carabobo,Urbanización Campo Alegre,2001,Naguanagua
 Carabobo,Urbanización Campo Solo,2001,Naguanagua
 Carabobo,Urbanización Carabobo,2001,Naguanagua
 Carabobo,Urbanización chaguaramal,2001,Naguanagua
-Carabobo,Urbanización Ciudad Alianza,2016,Urbanización Ciudad Alianza
+Carabobo,Urbanización Ciudad Alianza,2016,Valencia
 Carabobo,Urbanización Ciudad Jardin Mañongo,2001,Naguanagua
 Carabobo,Urbanización Colinas de Guataparo,2001,Naguanagua
-Carabobo,Urbanización Colon,2005,Urbanización Colon
+Carabobo,Urbanización Colon,2005,Bárbula
 Carabobo,Urbanización Don Bosco,2001,Naguanagua
 Carabobo,Urbanización El Bosque,2001,Naguanagua
-Carabobo,Urbanización el Morro,2006,Urbanización el Morro
+Carabobo,Urbanización el Morro,2006,1º de Mayo
 Carabobo,Urbanización El Morro 1 y 2,2001,Naguanagua
 Carabobo,Urbanización El Palotal,2001,Naguanagua
 Carabobo,Urbanización El Parral,2001,Naguanagua
@@ -806,7 +806,7 @@ Carabobo,Urbanización El Prebol,2001,Naguanagua
 Carabobo,Urbanización El Recreo,2001,Naguanagua
 Carabobo,Urbanización El Trigalito,2001,Naguanagua
 Carabobo,Urbanización El Viñedo,2001,Naguanagua
-Carabobo,Urbanización Flor Amarillo,2003,Urbanización Flor Amarillo
+Carabobo,Urbanización Flor Amarillo,2003,3 de Mayo
 Carabobo,Urbanización Fundación Mendoza,2001,Naguanagua
 Carabobo,Urbanización Guatsaparo Country Club,2001,Naguanagua
 Carabobo,Urbanización Guayabal,2001,Naguanagua
@@ -814,18 +814,18 @@ Carabobo,Urbanización Kerdel,2001,Naguanagua
 Carabobo,Urbanización La Arboleda,2001,Naguanagua
 Carabobo,Urbanización La Castellana,2001,Naguanagua
 Carabobo,Urbanización La Esmeralda,2001,Naguanagua
-Carabobo,Urbanización La Guacamaya 1 2 3 Etapa,2005,Urbanización La Guacamaya 1 2 3 Etapa
-Carabobo,Urbanización La Isabelica,2003,Urbanización La Isabelica
+Carabobo,Urbanización La Guacamaya 1 2 3 Etapa,2005,Bárbula
+Carabobo,Urbanización La Isabelica,2003,3 de Mayo
 Carabobo,Urbanización La Trigaleña,2001,Naguanagua
 Carabobo,Urbanización La Viña,2001,Naguanagua
 Carabobo,Urbanización Las Acacias,2001,Naguanagua
 Carabobo,Urbanización Las Clavellinas,2001,Naguanagua
-Carabobo,Urbanización Las Quintas,2005,Urbanización Las Quintas
+Carabobo,Urbanización Las Quintas,2005,Bárbula
 Carabobo,Urbanización Lomas Del Este,2001,Naguanagua
-Carabobo,Urbanización Los Arales,2006,Urbanización Los Arales
-Carabobo,Urbanización Los Bucares 1 y 2,2003,Urbanización Los Bucares 1 y 2
+Carabobo,Urbanización Los Arales,2006,1º de Mayo
+Carabobo,Urbanización Los Bucares 1 y 2,2003,3 de Mayo
 Carabobo,Urbanización Los Jardines,2001,Naguanagua
-Carabobo,Urbanización Los Magallanes,2006,Urbanización Los Magallanes
+Carabobo,Urbanización Los Magallanes,2006,1º de Mayo
 Carabobo,Urbanización Los Naranjos,2001,Naguanagua
 Carabobo,Urbanización Los Nisperos,2001,Naguanagua
 Carabobo,Urbanización Los Sauces,2001,Naguanagua
@@ -1173,7 +1173,7 @@ Distrito Capital,Urbanización Casalta III (Caracas),1030,Caracas
 Distrito Capital,Urbanización Catia (Caracas),1030,Caracas
 Distrito Capital,Urbanización Cementerio (Caracas),1040,Caracas
 Distrito Capital,Urbanización Chacaito (Caracas),1050,Caracas
-Distrito Capital,Urbanización Chapellín,1050,Urbanización Chapellín
+Distrito Capital,Urbanización Chapellín,1050,Caracas
 Distrito Capital,Urbanización Charallavito (Caracas),1080,Caracas
 Distrito Capital,Urbanización Ciudad Industrial Catia (Caracas),1030,Caracas
 Distrito Capital,Urbanización Coche (Caracas),1090,Caracas
@@ -1192,11 +1192,11 @@ Distrito Capital,Urbanización Cristóbal Rojas (Caracas),1090,Caracas
 Distrito Capital,Urbanización Delgado Chalbaud (Caracas),1090,Caracas
 Distrito Capital,Urbanización Diego de Lozada (Caracas),1010,Caracas
 Distrito Capital,Urbanización El Amparo (Caracas),1030,Caracas
-Distrito Capital,Urbanización El Bosque,1050,Urbanización El Bosque
+Distrito Capital,Urbanización El Bosque,1050,Caracas
 Distrito Capital,Urbanización El Bosque (Caracas),1050,Caracas
 Distrito Capital,Urbanización El Conde (Caracas),1010,Caracas
 Distrito Capital,Urbanización El Estadio (Caracas),1020,Caracas
-Distrito Capital,Urbanización El Manicomio,1030,Urbanización El Manicomio
+Distrito Capital,Urbanización El Manicomio,1030,Caracas
 Distrito Capital,Urbanización El Paraíso (Caracas),1020,Caracas
 Distrito Capital,Urbanización El Parque (Caracas),1071,Caracas
 Distrito Capital,Urbanización El Pinar (Caracas),1020,Caracas
@@ -1232,7 +1232,7 @@ Distrito Capital,Urbanización Las Delicias (Caracas),1050,Caracas
 Distrito Capital,Urbanización Las Dos Rosas (Caracas),1020,Caracas
 Distrito Capital,Urbanización Las Flores de Puente Hierro (Caracas),1010,Caracas
 Distrito Capital,Urbanización Las Fuentes (Caracas),1020,Caracas
-Distrito Capital,Urbanización Las Lomas,1080,Urbanización Las Lomas
+Distrito Capital,Urbanización Las Lomas,1080,Caracas
 Distrito Capital,Urbanización Las Lomas (Caracas),1080,Caracas
 Distrito Capital,Urbanización Las Lomas de La Florida (Caracas),1050,Caracas
 Distrito Capital,Urbanización Las Lomas de San Rafael (Caracas),1050,Caracas
@@ -1244,7 +1244,7 @@ Distrito Capital,Urbanización Loira (Caracas),1020,Caracas
 Distrito Capital,Urbanización Lomas de Propatria (Caracas),1030,Caracas
 Distrito Capital,Urbanización Lomas de San Román (Caracas),1061,Caracas
 Distrito Capital,Urbanización Lomas de Santa Marta (Caracas),1061,Caracas
-Distrito Capital,Urbanización Lomas de Urdaneta,1030,Urbanización Lomas de Urdaneta
+Distrito Capital,Urbanización Lomas de Urdaneta,1030,Caracas
 Distrito Capital,Urbanización Lomas del Mirador (Caracas),1061,Caracas
 Distrito Capital,Urbanización Longaray (Caracas),1040,Caracas
 Distrito Capital,Urbanización Los Campitos (Caracas),1080,Caracas
@@ -1253,72 +1253,72 @@ Distrito Capital,Urbanización Los Carmenes (Caracas),1040,Caracas
 Distrito Capital,Urbanización Los Castaños (Caracas),1040,Caracas
 Distrito Capital,Urbanización Los Cedros (Caracas),1050,Caracas
 Distrito Capital,Urbanización Los Chaguaramos (Caracas),1040,Caracas
-Distrito Capital,Urbanización los flores de Catia,1030,Urbanización los flores de Catia
+Distrito Capital,Urbanización los flores de Catia,1030,Caracas
 Distrito Capital,Urbanización Los Geranios (Caracas),1083,Caracas
 Distrito Capital,Urbanización Los Guayabitos (Caracas),1080,Caracas
 Distrito Capital,Urbanización Los Laureles (Caracas),1020,Caracas
-Distrito Capital,Urbanización Los Mangos (La Florida,Caracas),Urbanización Los Mangos (La Florida
-Distrito Capital,Urbanización Los Mangos (San Martín,Caracas),Urbanización Los Mangos (San Martín
+Distrito Capital,Urbanización Los Mangos (La Florida,Caracas),Caracas
+Distrito Capital,Urbanización Los Mangos (San Martín,Caracas),Caracas
 Distrito Capital,Urbanización Los Molinos (Caracas),1020,Caracas
 Distrito Capital,Urbanización Los Palos Grandes (Caracas),1060,Caracas
 Distrito Capital,Urbanización Los Pomelos (Caracas),1061,Caracas
 Distrito Capital,Urbanización Los Rosales (Caracas),1040,Caracas
-Distrito Capital,Urbanización Luis Hurtado,1030,Urbanización Luis Hurtado
+Distrito Capital,Urbanización Luis Hurtado,1030,Caracas
 Distrito Capital,Urbanización Mariperez (Caracas),1050,Caracas
-Distrito Capital,Urbanización Miranda (Casalta,Caracas),Urbanización Miranda (Casalta
+Distrito Capital,Urbanización Miranda (Casalta,Caracas),Caracas
 Distrito Capital,Urbanización Mis Encantos (Caracas),1060,Caracas
 Distrito Capital,Urbanización Montalban (Caracas),1020,Caracas
 Distrito Capital,Urbanización Monte Cristo (Caracas),1071,Caracas
 Distrito Capital,Urbanización Monte Elena (Caracas),1080,Caracas
-Distrito Capital,Urbanización Monte Piedad,1030,Urbanización Monte Piedad
+Distrito Capital,Urbanización Monte Piedad,1030,Caracas
 Distrito Capital,Urbanización Monte Piedad (Caracas),1030,Caracas
 Distrito Capital,Urbanización Monterrey (Caracas),1080,Caracas
 Distrito Capital,Urbanización Nueva Caracas (Caracas),1030,Caracas
-Distrito Capital,Urbanización Nueva Granada,1040,Urbanización Nueva Granada
+Distrito Capital,Urbanización Nueva Granada,1040,Caracas
 Distrito Capital,Urbanización Oritopo (Caracas),1083,Caracas
 Distrito Capital,Urbanización Parque Avila (Caracas),1050,Caracas
 Distrito Capital,Urbanización Parque Carabobo (Caracas),1010,Caracas
 Distrito Capital,Urbanización Parque Central (Caracas),1010,Caracas
 Distrito Capital,Urbanización Parque Humboldt (Caracas),1080,Caracas
 Distrito Capital,Urbanización Pedro Camejo (Caracas),1050,Caracas
-Distrito Capital,Urbanización Perez Bonalde,1030,Urbanización Perez Bonalde
-Distrito Capital,Urbanización Piedra Azul,1080,Urbanización Piedra Azul
-Distrito Capital,Urbanización Pinto Salinas,1050,Urbanización Pinto Salinas
-Distrito Capital,Urbanización Potrerito,1090,Urbanización Potrerito
-Distrito Capital,Urbanización Prados De Maria,1040,Urbanización Prados De Maria
-Distrito Capital,Urbanización Propatria,1030,Urbanización Propatria
-Distrito Capital,Urbanización Quinta Crespo,1010,Urbanización Quinta Crespo
-Distrito Capital,Urbanización Ruiz Pineda,1000,Urbanización Ruiz Pineda
-Distrito Capital,Urbanización Sabana Grande,1050,Urbanización Sabana Grande
-Distrito Capital,Urbanización San Agustin Del Norte,1010,Urbanización San Agustin Del Norte
-Distrito Capital,Urbanización San Agustin Del Sur,1010,Urbanización San Agustin Del Sur
-Distrito Capital,Urbanización San Antonio El Valle,1040,Urbanización San Antonio El Valle
-Distrito Capital,Urbanización San Antonio Sabana Grande,1050,Urbanización San Antonio Sabana Grande
-Distrito Capital,Urbanización San Bernardino,1010,Urbanización San Bernardino
-Distrito Capital,Urbanización San Jose Del Avila,1010,Urbanización San Jose Del Avila
-Distrito Capital,Urbanización San Luis,1061,Urbanización San Luis
-Distrito Capital,Urbanización San Marino,1060,Urbanización San Marino
-Distrito Capital,Urbanización San Martín,1020,Urbanización San Martín
-Distrito Capital,Urbanización San Michele,1071,Urbanización San Michele
-Distrito Capital,Urbanización San Román,1061,Urbanización San Román
-Distrito Capital,Urbanización Santa Ana,1061,Urbanización Santa Ana
-Distrito Capital,Urbanización Santa Cecilia,1071,Urbanización Santa Cecilia
-Distrito Capital,Urbanización Santa Clara,1061,Urbanización Santa Clara
-Distrito Capital,Urbanización Santa Maria,1071,Urbanización Santa Maria
-Distrito Capital,Urbanización Santa Monica,1040,Urbanización Santa Monica
-Distrito Capital,Urbanización Santa Rosa,1050,Urbanización Santa Rosa
-Distrito Capital,Urbanización Santa Rosa De Lima,1061,Urbanización Santa Rosa De Lima
-Distrito Capital,Urbanización Sarria,1050,Urbanización Sarria
-Distrito Capital,Urbanización Simon Rodriguez,1050,Urbanización Simon Rodriguez
-Distrito Capital,Urbanización Terraza De Caricuao,1000,Urbanización Terraza De Caricuao
-Distrito Capital,Urbanización Terraza De Santa Monica,1040,Urbanización Terraza De Santa Monica
-Distrito Capital,Urbanización Urdaneta,1030,Urbanización Urdaneta
-Distrito Capital,Urbanización Valle Abajo,1040,Urbanización Valle Abajo
-Distrito Capital,Urbanización Valle Alto,1073,Urbanización Valle Alto
-Distrito Capital,Urbanización Valmore Rodriguez,1000,Urbanización Valmore Rodriguez
-Distrito Capital,Urbanización Villa Zoila,1020,Urbanización Villa Zoila
-Distrito Capital,Urbanización Vista Alegre,1020,Urbanización Vista Alegre
-Distrito Capital,Urbanización Washington,1020,Urbanización Washington
+Distrito Capital,Urbanización Perez Bonalde,1030,Caracas
+Distrito Capital,Urbanización Piedra Azul,1080,Caracas
+Distrito Capital,Urbanización Pinto Salinas,1050,Caracas
+Distrito Capital,Urbanización Potrerito,1090,Caracas
+Distrito Capital,Urbanización Prados De Maria,1040,Caracas
+Distrito Capital,Urbanización Propatria,1030,Caracas
+Distrito Capital,Urbanización Quinta Crespo,1010,Caracas
+Distrito Capital,Urbanización Ruiz Pineda,1000,Caracas
+Distrito Capital,Urbanización Sabana Grande,1050,Caracas
+Distrito Capital,Urbanización San Agustin Del Norte,1010,Caracas
+Distrito Capital,Urbanización San Agustin Del Sur,1010,Caracas
+Distrito Capital,Urbanización San Antonio El Valle,1040,Caracas
+Distrito Capital,Urbanización San Antonio Sabana Grande,1050,Caracas
+Distrito Capital,Urbanización San Bernardino,1010,Caracas
+Distrito Capital,Urbanización San Jose Del Avila,1010,Caracas
+Distrito Capital,Urbanización San Luis,1061,Caracas
+Distrito Capital,Urbanización San Marino,1060,Caracas
+Distrito Capital,Urbanización San Martín,1020,Caracas
+Distrito Capital,Urbanización San Michele,1071,Caracas
+Distrito Capital,Urbanización San Román,1061,Caracas
+Distrito Capital,Urbanización Santa Ana,1061,Caracas
+Distrito Capital,Urbanización Santa Cecilia,1071,Caracas
+Distrito Capital,Urbanización Santa Clara,1061,Caracas
+Distrito Capital,Urbanización Santa Maria,1071,Caracas
+Distrito Capital,Urbanización Santa Monica,1040,Caracas
+Distrito Capital,Urbanización Santa Rosa,1050,Caracas
+Distrito Capital,Urbanización Santa Rosa De Lima,1061,Caracas
+Distrito Capital,Urbanización Sarria,1050,Caracas
+Distrito Capital,Urbanización Simon Rodriguez,1050,Caracas
+Distrito Capital,Urbanización Terraza De Caricuao,1000,Caracas
+Distrito Capital,Urbanización Terraza De Santa Monica,1040,Caracas
+Distrito Capital,Urbanización Urdaneta,1030,Caracas
+Distrito Capital,Urbanización Valle Abajo,1040,Caracas
+Distrito Capital,Urbanización Valle Alto,1073,Caracas
+Distrito Capital,Urbanización Valmore Rodriguez,1000,Caracas
+Distrito Capital,Urbanización Villa Zoila,1020,Caracas
+Distrito Capital,Urbanización Vista Alegre,1020,Caracas
+Distrito Capital,Urbanización Washington,1020,Caracas
 Distrito Capital,Urdaneta (Caracas),1030,Caracas
 Distrito Capital,Valle Abajo (Caracas),1040,Caracas
 Distrito Capital,Valle Alto (Caracas),1073,Caracas
@@ -1657,87 +1657,87 @@ Miranda,Urbanización Alto Hatillo (Caracas),1083,Caracas
 Miranda,Urbanización Alto Prado (Caracas),1080,Caracas
 Miranda,Urbanización Avila (Caracas),1050,Caracas
 Miranda,Urbanización Bello Campo (Caracas),1060,Caracas
-Miranda,Urbanización Boleita,1071,Urbanización Boleita
-Miranda,Urbanización Boleita Alta,1071,Urbanización Boleita Alta
-Miranda,Urbanización California Norte,1071,Urbanización California Norte
-Miranda,Urbanización California Sur,1071,Urbanización California Sur
-Miranda,Urbanización Campo Alegre,1060,Urbanización Campo Alegre
-Miranda,Urbanización Canteras de Miranda,1073,Urbanización Canteras de Miranda
-Miranda,Urbanización Caracas Country Club,1060,Urbanización Caracas Country Club
-Miranda,Urbanización Caurimare,1061,Urbanización Caurimare
-Miranda,Urbanización Chacao,1060,Urbanización Chacao
-Miranda,Urbanización Chuao,1061,Urbanización Chuao
-Miranda,Urbanización Colinas de Baruta,1080,Urbanización Colinas de Baruta
-Miranda,Urbanización Colinas de Bello Monte,1050,Urbanización Colinas de Bello Monte
-Miranda,Urbanización Colinas de La California,1071,Urbanización Colinas de La California
-Miranda,Urbanización Colinas de La Mariposa,1090,Urbanización Colinas de La Mariposa
-Miranda,Urbanización Colinas de La Trinidad,1080,Urbanización Colinas de La Trinidad
-Miranda,Urbanización Colinas de Los Ruices,1071,Urbanización Colinas de Los Ruices
-Miranda,Urbanización Colinas de Turumo,1073,Urbanización Colinas de Turumo
-Miranda,Urbanización Colinas de Valle Arriba,1080,Urbanización Colinas de Valle Arriba
-Miranda,Urbanización Colinas del Tamanaco,1061,Urbanización Colinas del Tamanaco
-Miranda,Urbanización Cumbres de Curumo,1080,Urbanización Cumbres de Curumo
-Miranda,Urbanización Cútira,1030,Urbanización Cútira
-Miranda,Urbanización Don Bosco,1071,Urbanización Don Bosco
-Miranda,Urbanización El Cafetal,1061,Urbanización El Cafetal
-Miranda,Urbanización El Dorado,1073,Urbanización El Dorado
-Miranda,Urbanización El Llanito,1073,Urbanización El Llanito
-Miranda,Urbanización El Marqués,1071,Urbanización El Marqués
-Miranda,Urbanización El Pedregal,1060,Urbanización El Pedregal
-Miranda,Urbanización El Peñón,1080,Urbanización El Peñón
-Miranda,Urbanización El Placer,1080,Urbanización El Placer
-Miranda,Urbanización El Placer de María,1080,Urbanización El Placer de María
-Miranda,Urbanización El Prado,1040,Urbanización El Prado
-Miranda,Urbanización El Retiro,1060,Urbanización El Retiro
-Miranda,Urbanización El Rosal,1060,Urbanización El Rosal
-Miranda,Urbanización La Boyera,1083,Urbanización La Boyera
-Miranda,Urbanización La Carlota,1071,Urbanización La Carlota
-Miranda,Urbanización La Castellana,1060,Urbanización La Castellana
-Miranda,Urbanización La Ciudadela,1080,Urbanización La Ciudadela
-Miranda,Urbanización La Cumbre,1083,Urbanización La Cumbre
-Miranda,Urbanización La Esmeralda,1083,Urbanización La Esmeralda
-Miranda,Urbanización La Esperanza,1030,Urbanización La Esperanza
-Miranda,Urbanización La Estancia,1071,Urbanización La Estancia
-Miranda,Urbanización La Floresta,1060,Urbanización La Floresta
-Miranda,Urbanización La Lagunita Country Club,1083,Urbanización La Lagunita Country Club
-Miranda,Urbanización La Mariposa,1090,Urbanización La Mariposa
-Miranda,Urbanización La Trinidad,1080,Urbanización La Trinidad
-Miranda,Urbanización La Urbina,1073,Urbanización La Urbina
-Miranda,Urbanización Las Américas,1020,Urbanización Las Américas
-Miranda,Urbanización Las Bonitas,1080,Urbanización Las Bonitas
-Miranda,Urbanización Las Mercedes,1060,Urbanización Las Mercedes
-Miranda,Urbanización Las Minas,1080,Urbanización Las Minas
-Miranda,Urbanización Las Vegas de Petare,1073,Urbanización Las Vegas de Petare
-Miranda,Urbanización Lomas de Las Mercedes,1061,Urbanización Lomas de Las Mercedes
-Miranda,Urbanización Lomas del Club Hípico,1080,Urbanización Lomas del Club Hípico
-Miranda,Urbanización Los Chorros,1071,Urbanización Los Chorros
-Miranda,Urbanización Los Cortijos de Lourdes,1071,Urbanización Los Cortijos de Lourdes
-Miranda,Urbanización Los Dos Caminos,1071,Urbanización Los Dos Caminos
-Miranda,Urbanización Los Naranjos,1061,Urbanización Los Naranjos
-Miranda,Urbanización Los Ruices,1071,Urbanización Los Ruices
-Miranda,Urbanización Macaracuay,1071,Urbanización Macaracuay
-Miranda,Urbanización Mampote,1073,Urbanización Mampote
-Miranda,Urbanización Mirador del Este,1073,Urbanización Mirador del Este
-Miranda,Urbanización Miranda (Petare,Guarenas),Urbanización Miranda (Petare
-Miranda,Urbanización Palo Verde,1073,Urbanización Palo Verde
-Miranda,Urbanización Parque Anauco,1010,Urbanización Parque Anauco
-Miranda,Urbanización Parque Sebucán,1071,Urbanización Parque Sebucán
-Miranda,Urbanización Paseo Las Mercedes,1061,Urbanización Paseo Las Mercedes
-Miranda,Urbanización Paulo VI,1073,Urbanización Paulo VI
-Miranda,Urbanización Prados Del Este,1080,Urbanización Prados Del Este
-Miranda,Urbanización Santa Fe Norte y Sur,1080,Urbanización Santa Fe Norte y Sur
-Miranda,Urbanización Santa Ines,1080,Urbanización Santa Ines
-Miranda,Urbanización Santa Paula,1061,Urbanización Santa Paula
-Miranda,Urbanización Santa Sofia,1061,Urbanización Santa Sofia
-Miranda,Urbanización Sartenejas,1080,Urbanización Sartenejas
-Miranda,Urbanización Sebucan,1071,Urbanización Sebucan
-Miranda,Urbanización Sector Los Naranjos,1061,Urbanización Sector Los Naranjos
-Miranda,Urbanización Sorocaima,1080,Urbanización Sorocaima
-Miranda,Urbanización Terraza Del Club Hipico,1080,Urbanización Terraza Del Club Hipico
-Miranda,Urbanización Terrazas Del Avila,1073,Urbanización Terrazas Del Avila
-Miranda,Urbanización Turiamo,1020,Urbanización Turiamo
-Miranda,Urbanización Turumo,1073,Urbanización Turumo
-Miranda,Urbanización Valle Arriba,1061,Urbanización Valle Arriba
+Miranda,Urbanización Boleita,1071,Caracas
+Miranda,Urbanización Boleita Alta,1071,Caracas
+Miranda,Urbanización California Norte,1071,Caracas
+Miranda,Urbanización California Sur,1071,Caracas
+Miranda,Urbanización Campo Alegre,1060,Caracas
+Miranda,Urbanización Canteras de Miranda,1073,Caracas
+Miranda,Urbanización Caracas Country Club,1060,Caracas
+Miranda,Urbanización Caurimare,1061,Caracas
+Miranda,Urbanización Chacao,1060,Caracas
+Miranda,Urbanización Chuao,1061,Caracas
+Miranda,Urbanización Colinas de Baruta,1080,Caracas
+Miranda,Urbanización Colinas de Bello Monte,1050,Caracas
+Miranda,Urbanización Colinas de La California,1071,Caracas
+Miranda,Urbanización Colinas de La Mariposa,1090,Caracas
+Miranda,Urbanización Colinas de La Trinidad,1080,Caracas
+Miranda,Urbanización Colinas de Los Ruices,1071,Caracas
+Miranda,Urbanización Colinas de Turumo,1073,Caracas
+Miranda,Urbanización Colinas de Valle Arriba,1080,Caracas
+Miranda,Urbanización Colinas del Tamanaco,1061,Caracas
+Miranda,Urbanización Cumbres de Curumo,1080,Caracas
+Miranda,Urbanización Cútira,1030,Caracas
+Miranda,Urbanización Don Bosco,1071,Caracas
+Miranda,Urbanización El Cafetal,1061,Caracas
+Miranda,Urbanización El Dorado,1073,Caracas
+Miranda,Urbanización El Llanito,1073,Caracas
+Miranda,Urbanización El Marqués,1071,Caracas
+Miranda,Urbanización El Pedregal,1060,Caracas
+Miranda,Urbanización El Peñón,1080,Caracas
+Miranda,Urbanización El Placer,1080,Caracas
+Miranda,Urbanización El Placer de María,1080,Caracas
+Miranda,Urbanización El Prado,1040,Caracas
+Miranda,Urbanización El Retiro,1060,Caracas
+Miranda,Urbanización El Rosal,1060,Caracas
+Miranda,Urbanización La Boyera,1083,Caracas
+Miranda,Urbanización La Carlota,1071,Caracas
+Miranda,Urbanización La Castellana,1060,Caracas
+Miranda,Urbanización La Ciudadela,1080,Caracas
+Miranda,Urbanización La Cumbre,1083,Caracas
+Miranda,Urbanización La Esmeralda,1083,Caracas
+Miranda,Urbanización La Esperanza,1030,Caracas
+Miranda,Urbanización La Estancia,1071,Caracas
+Miranda,Urbanización La Floresta,1060,Caracas
+Miranda,Urbanización La Lagunita Country Club,1083,Caracas
+Miranda,Urbanización La Mariposa,1090,Caracas
+Miranda,Urbanización La Trinidad,1080,Caracas
+Miranda,Urbanización La Urbina,1073,Caracas
+Miranda,Urbanización Las Américas,1020,Caracas
+Miranda,Urbanización Las Bonitas,1080,Caracas
+Miranda,Urbanización Las Mercedes,1060,Caracas
+Miranda,Urbanización Las Minas,1080,Caracas
+Miranda,Urbanización Las Vegas de Petare,1073,Caracas
+Miranda,Urbanización Lomas de Las Mercedes,1061,Caracas
+Miranda,Urbanización Lomas del Club Hípico,1080,Caracas
+Miranda,Urbanización Los Chorros,1071,Caracas
+Miranda,Urbanización Los Cortijos de Lourdes,1071,Caracas
+Miranda,Urbanización Los Dos Caminos,1071,Caracas
+Miranda,Urbanización Los Naranjos,1061,Caracas
+Miranda,Urbanización Los Ruices,1071,Caracas
+Miranda,Urbanización Macaracuay,1071,Caracas
+Miranda,Urbanización Mampote,1073,Caracas
+Miranda,Urbanización Mirador del Este,1073,Caracas
+Miranda,Urbanización Miranda (Petare,Guarenas),Los Teques
+Miranda,Urbanización Palo Verde,1073,Caracas
+Miranda,Urbanización Parque Anauco,1010,Caracas
+Miranda,Urbanización Parque Sebucán,1071,Caracas
+Miranda,Urbanización Paseo Las Mercedes,1061,Caracas
+Miranda,Urbanización Paulo VI,1073,Caracas
+Miranda,Urbanización Prados Del Este,1080,Caracas
+Miranda,Urbanización Santa Fe Norte y Sur,1080,Caracas
+Miranda,Urbanización Santa Ines,1080,Caracas
+Miranda,Urbanización Santa Paula,1061,Caracas
+Miranda,Urbanización Santa Sofia,1061,Caracas
+Miranda,Urbanización Sartenejas,1080,Caracas
+Miranda,Urbanización Sebucan,1071,Caracas
+Miranda,Urbanización Sector Los Naranjos,1061,Caracas
+Miranda,Urbanización Sorocaima,1080,Caracas
+Miranda,Urbanización Terraza Del Club Hipico,1080,Caracas
+Miranda,Urbanización Terrazas Del Avila,1073,Caracas
+Miranda,Urbanización Turiamo,1020,Caracas
+Miranda,Urbanización Turumo,1073,Caracas
+Miranda,Urbanización Valle Arriba,1061,Caracas
 Monagas,Aguasay,6201,Aguasay
 Monagas,Alto Guri,6201,Alto Guri
 Monagas,Altos de los Godos,6201,Altos de los Godos
@@ -1846,7 +1846,7 @@ Nueva Esparta,Los Giles,6301,Los Giles
 Nueva Esparta,Los Gómez,6301,Los Gómez
 Nueva Esparta,Los Marvales,6301,Los Marvales
 Nueva Esparta,Los Millanes,6301,Los Millanes
-Nueva Esparta,Luisa Cáceres de Arismendi (Urbanización),6301,Urbanización
+Nueva Esparta,Luisa Cáceres de Arismendi (Urbanización),6301,Agua de Vaca
 Nueva Esparta,Macanao,6301,Macanao
 Nueva Esparta,Manzanillo,6301,Manzanillo
 Nueva Esparta,Marino,6301,Marino
@@ -1856,7 +1856,7 @@ Nueva Esparta,Otras Poblaciones,6301,La Asunción
 Nueva Esparta,Pampatar,6316,La Asuncion
 Nueva Esparta,Pedregales,6301,Pedregales
 Nueva Esparta,Pedro González,6301,Pedro González
-Nueva Esparta,Playa el Angel (Urbanización),6301,Urbanización
+Nueva Esparta,Playa el Angel (Urbanización),6301,Agua de Vaca
 Nueva Esparta,Porlamar,6301,Porlamar
 Nueva Esparta,Puerto Fermín,6301,Puerto Fermín
 Nueva Esparta,Punta de Piedras,6318,La Asuncion
@@ -1866,7 +1866,7 @@ Nueva Esparta,San Juan Bautista,6320,San Juan Bautista
 Nueva Esparta,San Pedro de Coche,6321,San Pedro de Coche
 Nueva Esparta,Santa Ana,6301,Santa Ana
 Nueva Esparta,Tacarigua,6301,Tacarigua
-Nueva Esparta,Valle Verde (Urbanización),6301,Urbanización
+Nueva Esparta,Valle Verde (Urbanización),6301,Agua de Vaca
 Nueva Esparta,Villa Rosa,6301,Villa Rosa
 Portuguesa,Acarigua,3301,Acarigua
 Portuguesa,Agua Blanca,3302,Agua Blanca
@@ -2057,7 +2057,7 @@ Trujillo,Bolivia,3157,Bolivia
 Trujillo,Buena Vista,3101,Buena Vista
 Trujillo,Burbusay,3115,Burbusay
 Trujillo,Caja Seca (Nueva Bolivia),3141,Nueva Bolivia
-Trujillo,Campo Alegre (Urbanización),3101,Urbanización
+Trujillo,Campo Alegre (Urbanización),3101,Quebrada Arriba
 Trujillo,Campo Elías,3116,Campo Elías
 Trujillo,Carache,3123,Carache
 Trujillo,Carvajal,3102,Valera
@@ -2135,8 +2135,8 @@ Vargas,Marapa,1162,Marapa
 Vargas,Naiguatá,1160,La Guaira
 Vargas,Oricao,1162,Oricao
 Vargas,Puerto Carayaca,1162,Puerto Carayaca
-Vargas,Urbanización Caribe,1030,Urbanización Caribe
-Vargas,Urbanización El Junko Country Club,1030,Urbanización El Junko Country Club
+Vargas,Urbanización Caribe,1030,Caracas
+Vargas,Urbanización El Junko Country Club,1030,Caracas
 Yaracuy,Agua Negra,3201,Agua Negra
 Yaracuy,Albarico,3201,San Felipe
 Yaracuy,Aroa,3210,Aroa
@@ -2466,7 +2466,7 @@ Zulia,Urbanización Rómulo Gallego (Maracaibo),4005,Maracaibo
 Zulia,Urbanización Rotaria 1ª 2ª 3ª 4ª y 5ª Etapa (Maracaibo),4005,Maracaibo
 Zulia,Urbanización Sabatorio (Maracaibo),4001,Maracaibo
 Zulia,Urbanización San Felipe 1ª y 2ª Etapa (Maracaibo),4004,Maracaibo
-Zulia,Urbanización San Francisco de Miranda 3ª Etapa,4004,Urbanización San Francisco de Miranda 3ª Etapa
+Zulia,Urbanización San Francisco de Miranda 3ª Etapa,4004,Maracaibo
 Zulia,Urbanización San Jacinto (Maracaibo),4005,Maracaibo
 Zulia,Urbanización San Miguel (Maracaibo),4001,Maracaibo
 Zulia,Urbanización San Rafael (Maracaibo),4001,Maracaibo
