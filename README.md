@@ -7,6 +7,7 @@ La información está organizada siguiendo una estructura jerárquica simplifica
 1. **`estado`**: El nombre de la entidad federal.
 2. **`zona`**: El sector, urbanización, ciudad o localidad específica.
 3. **`codigo_postal`**: El número identificador de 4 dígitos.
+4. **`ciudad`**: Ciudad especifica.
 
 ### Ejemplo de los datos:
 
