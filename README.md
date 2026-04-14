@@ -10,12 +10,12 @@ La información está organizada siguiendo una estructura jerárquica simplifica
 
 ### Ejemplo de los datos:
 
-| estado | zona | codigo_postal |
-| :--- | :--- | :--- |
-| Amazonas | Puerto Ayacucho | 7101 |
-| Distrito Capital | El Paraíso | 1020 |
-| Nueva Esparta | Porlamar | 6301 |
-| Zulia | Ciudad Ojeda | 4019 |
+| estado | zona | codigo_postal | ciudad |
+| :--- | :--- | :--- | :--- |
+| Amazonas | Puerto Ayacucho | 7101 | Puerto Ayacucho |
+| Distrito Capital | El Paraíso | 1020 | Caracas |
+| Nueva Esparta | Porlamar | 6301 | Porlamar |
+| Zulia | Ciudad Ojeda | 4019 | Ciudad Ojeda | 
 
 ---
 
